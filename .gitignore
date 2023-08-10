@@ -307,3 +307,5 @@ $RECYCLE.BIN/
 *.msi
 *.msix
 *.msm
+config/__pycache__/settings.cpython-311.pyc
+*.pyc
